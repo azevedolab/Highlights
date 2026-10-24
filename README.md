@@ -1,5 +1,4 @@
 # Highlights
-Research Highlights
 <h2>Research Highlights</h2>
 <a href = "https://febs.onlinelibrary.wiley.com/doi/10.1111/j.1432-1033.1997.0518a.x" title = "Inhibition of Cyclin-Dependent Kinases by Purine Analogues">
 <img src="https://drive.usercontent.google.com/download?id=1TZyOWapNMveGhOp08G4yoIW70ukD_9er&export=view&authuser=0" width=200 align=left title="Structure of CDK2 in Complex with Roscovitine">
