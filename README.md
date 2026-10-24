@@ -161,7 +161,7 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <br> </br>
 <br> </br>
-<h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
+<h2><a href = "https://github.com/azevedolab/Bio" title = "Bio (Prof. Walter Filgueira de Azevedo, Jr.)"> Bio </a> </h2> 
 <a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
 <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
@@ -170,4 +170,3 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flipbook)"></a> 
 
 <br> </br>
-
