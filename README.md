@@ -1,12 +1,11 @@
-# Highlights
-<h2>Research Highlights</h2>
+# Research Highlights
 <a href = "https://febs.onlinelibrary.wiley.com/doi/10.1111/j.1432-1033.1997.0518a.x" title = "Inhibition of Cyclin-Dependent Kinases by Purine Analogues">
 <img src="https://drive.usercontent.google.com/download?id=1TZyOWapNMveGhOp08G4yoIW70ukD_9er&export=view&authuser=0" width=200 align=left title="Structure of CDK2 in Complex with Roscovitine">
 <b>1997</b>: Structure of CDK2 in Complex with Roscovitine</a>
 <p>The CDK2-Roscovitine structure shows that the (R)-stereoisomer of roscovitine is bound to CDK2. Results from structure/activity studies and from
 analysis of the CDK2/Roscovitine complex crystal structure should allow the design of even more potent CDK inhibitors.</p>
 <p>PDB: <a href="https://www.rcsb.org/structure/2A4L" title="Link to PDB">2A4L</a></p>
-<p>DOI: <a href="https://doi.org/10.1111/j.1432-1033.1997.0518a.x" title="Link to DOI">: 10.1111/j.1432-1033.1997.0518a.x</a></p>
+<p>DOI: <a href="https://doi.org/10.1111/j.1432-1033.1997.0518a.x" title="Link to DOI">10.1111/j.1432-1033.1997.0518a.x</a></p>
 <br> </br>
 <br> </br>
 <a href = "https://www.youtube.com/watch?v=N9IFiQNY8mE" title = "Crystallization of Proteins in Space (STS-95)">
